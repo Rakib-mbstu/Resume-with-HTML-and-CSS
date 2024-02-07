@@ -1,0 +1,64 @@
+.outer{
+    position: relative;
+    align-items: baseline;
+    border: 1px solid royalblue;
+    padding: 30px;
+    max-width: 968px;
+    margin: auto;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.container1 p{
+    margin-left: 15px;
+}
+#leftie{
+    text-align: right;
+}
+#box1{
+    position: relative;
+    height: 150px;
+    width: 65%;
+}
+#h3{
+    color: blue;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#line{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.container2 .separator{
+    display: flex;
+    flex-direction: row;
+}
+.container2 .inContainer{
+    margin-left: 15px;
+    width: 50%;
+}
+.container2 .inContainer #uni{
+    margin-bottom: 0px;
+}
+
+.container2 .inContainer p{
+    margin-top: 5px;
+    font-style: italic;
+}
+#uniadd{
+    margin-top: 17px;
+    margin-bottom: 5px;
+}
+#unicg{
+    margin-top: 5px;
+}
+#prSolve1{
+    margin-left: 15px;
+    font-weight: bold;
+    width: 9%;
+}
+.container3 .prSolve{
+    display: flex;
+    flex-direction: row;
+}
